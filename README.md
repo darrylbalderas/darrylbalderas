@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on on my homelab using the following tools and systems 
+🔭 I’m currently working on my homelab using the following tools and systems:
 
 - MiniPC
 - Raspberry Pis
@@ -13,3 +13,4 @@
 - Docker
 - Ngnix
 - Ubiquiti
+- Ubuntu Server
